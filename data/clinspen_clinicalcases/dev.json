@@ -1,0 +1,487 @@
+[
+    {
+        "file_name": "32282871_B.en.txt",
+        "en": "The patient was a 94-year-old woman who had close contact with a confirmed case of COVID-19 eleven days earlier.",
+        "es": "Mujer de 94 a\u00f1os que hab\u00eda tenido contacto estrecho con un caso confirmado de COVID-19 once d\u00edas antes."
+    },
+    {
+        "file_name": "32282871_B.en.txt",
+        "en": "She presented with an 8-day history of lethargy and fever (maximum temperature, 39 \u00b0C), and her history included 10 years of coronary heart disease.",
+        "es": "Acudi\u00f3 reportando letargia y fiebre (temperatura m\u00e1xima de 39 \u00b0C) de 8 d\u00edas de evoluci\u00f3n; sus antecedentes inclu\u00edan 10 a\u00f1os de cardiopat\u00eda coronaria."
+    },
+    {
+        "file_name": "32282871_B.en.txt",
+        "en": "Physical examination found wheezing in both lungs and peripheral edema, and chest radiography identified right pulmonary infiltration and consolidation with right pleural effusion.",
+        "es": "A la exploraci\u00f3n f\u00edsica se apreciaron sibilancias en ambos pulmones y edema perif\u00e9rico; una radiograf\u00eda tor\u00e1cica identific\u00f3 infiltraciones y consolidaciones en el pulm\u00f3n derecho y derrame pleural derecho."
+    },
+    {
+        "file_name": "32282871_B.en.txt",
+        "en": "She had a C-reactive protein level of 115.1 mg/L (normal level, <3 mg/L) and leukocyte count of 10.2 \u00d7 109 cells/L with 9% lymphocytes.",
+        "es": "Ten\u00eda unos valores de prote\u00edna C-reactiva de 115,1 mg/L (valor normal < 3 mg/mL) y una cifra de leucocitos de 10,2 \u00d7 109 c\u00e9lulas/L, con un 9% de linfocitos."
+    },
+    {
+        "file_name": "32282871_B.en.txt",
+        "en": "Tests processed by the Beijing Centers for Disease Control confirmed that she had COVID-19.",
+        "es": "Las pruebas procesadas por los Centros para el Control de Enfermedades de Pek\u00edn confirmaron la COVID-19."
+    },
+    {
+        "file_name": "32282871_B.en.txt",
+        "en": "At the direction of her relatives, we provided noninvasive therapy that included supplemental oxygen and symptomatic treatment.",
+        "es": "A indicaci\u00f3n de sus parientes, proporcionamos terapia no invasiva con oxigenoterapia y tratamiento sintom\u00e1tico."
+    },
+    {
+        "file_name": "32282871_B.en.txt",
+        "en": "She gradually developed dyspnea and hypoxemia and had a fatal cardiac arrest on day 10 of the illness.",
+        "es": "Gradualmente, present\u00f3 disnea e hipoxemia y sufri\u00f3 un paro card\u00edaco mortal el d\u00eda 10 de enfermedad."
+    },
+    {
+        "file_name": "32399449-B.en.txt",
+        "en": "A 64-year-old man was admitted to our ED complaining fever and dry cough treated with antibiotics over the previous 10 days.",
+        "es": "Un hombre de 64 a\u00f1os ingres\u00f3 en nuestro servicio de urgencias aquejado de fiebre y tos seca, tratada con antibi\u00f3ticos durante los 10 d\u00edas previos."
+    },
+    {
+        "file_name": "32399449-B.en.txt",
+        "en": "Point-of-care lung US revealed diffuse B lines with bibasal consolidations which were also documented by chest x-ray.",
+        "es": "Una ecograf\u00eda a pie de cama revel\u00f3 l\u00edneas B difusas con consolidaciones bibasales, tambi\u00e9n documentadas mediante radiograf\u00eda tor\u00e1cica."
+    },
+    {
+        "file_name": "32399449-B.en.txt",
+        "en": "A nasopharyngeal swab confirmed the diagnosis of COVID-19 pneumonia.",
+        "es": "Un frotis nasofar\u00edngeo confirm\u00f3 el diagn\u00f3stico de neumon\u00eda por COVID-19."
+    },
+    {
+        "file_name": "32399449-B.en.txt",
+        "en": "The patient\u2019s medical history was unremarkable, and he did not take any medications.",
+        "es": "Los antecedentes m\u00e9dicos del paciente eran anodinos y no tomaba ninguna medicaci\u00f3n."
+    },
+    {
+        "file_name": "32399449-B.en.txt",
+        "en": "Right bundle branch block (RBB) was detected on ECG.",
+        "es": "En el ECG se detect\u00f3 bloqueo de la rama derecha del haz de His (BRDHH)."
+    },
+    {
+        "file_name": "32399449-B.en.txt",
+        "en": "He was treated with darunavir/cobicistat, hydroxychloroquine, LMWH at a prophylactic dose and low-flow nasal prong oxygen.",
+        "es": "Se trat\u00f3 con darunavir/cobicistat, hidroxicloroquina y HBPM a dosis preventiva y oxigenoterapia de bajo flujo con gafas nasales."
+    },
+    {
+        "file_name": "32399449-B.en.txt",
+        "en": "He was discharged after 10 days in good health with no need for oxygen.",
+        "es": "Se le dio de alta despu\u00e9s de 10 d\u00edas, en buen estado de salud y sin necesidad de ox\u00edgeno."
+    },
+    {
+        "file_name": "32399449-B.en.txt",
+        "en": "His SIC score was below 4, so LMWH administration was stopped.",
+        "es": "Su puntuaci\u00f3n de CIS era inferior a 4, de modo que se interrumpi\u00f3 la administraci\u00f3n de HBPM."
+    },
+    {
+        "file_name": "32399449-B.en.txt",
+        "en": "However, after 1 week the patient again presented to our ED with complaints of acute chest pain while breathing (SpO2 97%, PaO2/FiO2   341 mmHg on ambient air), and an ache in his left leg for the last 3 days.",
+        "es": "Sin embargo, una semana despu\u00e9s el paciente acudi\u00f3 nuevamente a nuestro servicio de urgencias aquejado de dolor tor\u00e1cico agudo al respirar (SpO2 97%, PaO2/FiO2 341 mmHg en aire ambiental) y de dolor en la pierna izquierda de 3 d\u00edas de evoluci\u00f3n."
+    },
+    {
+        "file_name": "32399449-B.en.txt",
+        "en": "He denied previous venous thrombosis or a family history of thrombophilia.",
+        "es": "Afirm\u00f3 no tener antecedentes de trombosis venosa ni antecedentes familiares de trombofilia."
+    },
+    {
+        "file_name": "32399449-B.en.txt",
+        "en": "The clinically suspected DVT was confirmed by CUS with no compressibility of the left popliteal vein.",
+        "es": "La sospecha cl\u00ednica de TVP qued\u00f3 confirmada por una ecograf\u00eda compresiva sin compresibilidad de la vena popl\u00edtea izquierda."
+    },
+    {
+        "file_name": "32399449-B.en.txt",
+        "en": "Echocardiography was normal.",
+        "es": "El ecocardiograma era normal."
+    },
+    {
+        "file_name": "32399449-B.en.txt",
+        "en": "Lung US showed focal B lines and left basal consolidation with slight pleural effusion.",
+        "es": "Una ecograf\u00eda pulmonar mostr\u00f3 l\u00edneas B focales y consolidaci\u00f3n basal izquierda con ligero derrame pleural."
+    },
+    {
+        "file_name": "32399449-B.en.txt",
+        "en": "ECG results were unchanged (NSR, RBBB).",
+        "es": "Los resultados del ECG no variaron (RSN, BRDHH)."
+    },
+    {
+        "file_name": "32399449-B.en.txt",
+        "en": "CT pulmonary angiography documented left subsegmental PE with diffuse ground-glass opacity and a crazy-paving pattern (visual CT score 5%).",
+        "es": "Una angiograf\u00eda pulmonar por TAC revel\u00f3 derrame pleural subsegmentario izquierdo, con opacidades de vidrio esmerilado difusas y patr\u00f3n en empedrado (\u00edndice visual TAC 5%)."
+    },
+    {
+        "file_name": "32399449-B.en.txt",
+        "en": "Another nasopharyngeal swab was taken and showed low-positive results.",
+        "es": "Se obtuvo otro frotis nasofar\u00edngeo que dio resultado positivo bajo."
+    },
+    {
+        "file_name": "32399449-B.en.txt",
+        "en": "Fondaparinux was immediately started at a high dose and switched to a twice daily regimen of dabigatran after 5 days.",
+        "es": "Se inici\u00f3 inmediatamente administraci\u00f3n de fondaparinux a dosis alta y tras 5 d\u00edas se cambi\u00f3 a una pauta de dabigatr\u00e1n dos veces al d\u00eda."
+    },
+    {
+        "file_name": "32399449-B.en.txt",
+        "en": "The patient was discharged without sequelae on day 6.",
+        "es": "El paciente fue dado de alta sin secuelas el d\u00eda 6."
+    },
+    {
+        "file_name": "32583150A.en.txt",
+        "en": "A 5-year-old boy with no significant past medical history presented with several days of fever, cough, and abdominal pain.",
+        "es": "Ni\u00f1o de 5 a\u00f1os, sin antecedentes relevantes, se present\u00f3 con fiebre, tos y dolor abdominal de varios d\u00edas de evoluci\u00f3n."
+    },
+    {
+        "file_name": "32583150A.en.txt",
+        "en": "He progressed to cardiogenic shock and transfer to our institution, where he tested positive for COVID-19 antibodies and had high IL-6 levels.",
+        "es": "Su estado empeor\u00f3 a un choque cardiog\u00e9nico y fue trasladado a nuestra instituci\u00f3n, donde dio resultado positivo para anticuerpos de COVID-19 y ten\u00eda valores altos de IL-6."
+    },
+    {
+        "file_name": "32583150A.en.txt",
+        "en": "He developed cardiopulmonary failure requiring extracorporeal membrane oxygenation (ECMO).",
+        "es": "Desarroll\u00f3 insuficiencia pulmonar que requiri\u00f3 oxigenaci\u00f3n por membrana extracorporal (OMEC)."
+    },
+    {
+        "file_name": "32583150A.en.txt",
+        "en": "After 5 days of ECMO, he was found to have a fixed and dilated right pupil.",
+        "es": "Tras 5 d\u00edas de OMEC, se apreci\u00f3 midriasis arreactiva derecha."
+    },
+    {
+        "file_name": "32583150A.en.txt",
+        "en": "His heparin was emergently reversed, he was decannulated, and emergent CT head revealed a right middle cerebral artery (MCA) infarction, cerebral edema, and diffuse contralateral subarachnoid hemorrhage.",
+        "es": "Se cancel\u00f3 urgentemente su heparina y se retir\u00f3 la c\u00e1nula; una TAC craneal urgente revel\u00f3 un infarto de la arteria cerebral media derecha, edema cerebral y hemorragia subaracnoidea contralateral difusa."
+    },
+    {
+        "file_name": "32583150A.en.txt",
+        "en": "Following the CT scan, his left pupil became fixed and dilated.",
+        "es": "Tras la TAC, tambi\u00e9n present\u00f3 midriasis arreactiva izquierda."
+    },
+    {
+        "file_name": "32583150A.en.txt",
+        "en": "The reversal of his paralytic revealed absent brainstem reflexes and movement.",
+        "es": "La reversi\u00f3n de su par\u00e1lisis revel\u00f3 ausencia de movimiento y reflejos del tronco encef\u00e1lico."
+    },
+    {
+        "file_name": "32583150A.en.txt",
+        "en": "Brain death was confirmed 3\u00a0days later following normalization of his electrolytes.",
+        "es": "3 d\u00edas despu\u00e9s se confirm\u00f3 la muerte cerebral, tras normalizaci\u00f3n de sus electr\u00f3litos."
+    },
+    {
+        "file_name": "32583150B.en.txt",
+        "en": "The second patient is a 2-month-old boy with a history of tracheomalacia requiring tracheostomy.",
+        "es": "Ni\u00f1o de dos meses con antecedentes de traqueomalacia que requiri\u00f3 traqueostom\u00eda."
+    },
+    {
+        "file_name": "32583150B.en.txt",
+        "en": "He presented with respiratory failure, pneumomediastinum, and bilateral pneumothoraces.",
+        "es": "Se present\u00f3 con insuficiencia respiratoria, neumomediastino y neumot\u00f3rax bilateral."
+    },
+    {
+        "file_name": "32583150B.en.txt",
+        "en": "He developed refractory respiratory failure and was emergently placed on ECMO, on which he remained for 8\u00a0days.",
+        "es": "Desarroll\u00f3 insuficiencia respiratoria resistente y se le aplic\u00f3 OMEC de urgencia, con la cual permaneci\u00f3 8 d\u00edas."
+    },
+    {
+        "file_name": "32583150B.en.txt",
+        "en": "Despite the clinical picture and high IL-6 values, he tested negative for COVID-19 antibodies.",
+        "es": "A pesar del cuadro cl\u00ednico y los altos valores de IL-6, dio negativo en una prueba de anticuerpos de COVID-19."
+    },
+    {
+        "file_name": "32583150B.en.txt",
+        "en": "Continuous electroencephalogram (cEEG) found the child to be in non-convulsive status epilepticus, which was controlled on four anti-seizure medications.",
+        "es": "Un electroencefalograma continuo (EEGc) determin\u00f3 que el ni\u00f1o se hallaba en estado epil\u00e9ptico no convulsivo, que se control\u00f3 mediante cuatro f\u00e1rmacos."
+    },
+    {
+        "file_name": "32583150B.en.txt",
+        "en": "Daily screening head ultrasounds were performed per ECMO protocol.",
+        "es": "Siguiendo el protocolo para OMEC, se realizaron ecograf\u00edas craneales diarias de seguimiento."
+    },
+    {
+        "file_name": "32583150B.en.txt",
+        "en": "On day 1 of ECMO, a head ultrasound demonstrated multifocal echogenicity suspicious for hemorrhage.",
+        "es": "El d\u00eda 1 de OMEC, una ecograf\u00eda craneal mostr\u00f3 ecogenicidad multifocal sospechosa de hemorragia."
+    },
+    {
+        "file_name": "32583150B.en.txt",
+        "en": "A follow-up CT revealed bilateral MCA and posterior cerebral artery (PCA) territory infarctions with the hemorrhagic transformation.",
+        "es": "Una TAC de seguimiento revel\u00f3 infartos bilaterales en la arteria cerebral media y en la arteria cerebral posterior, con transformaci\u00f3n hemorr\u00e1gica."
+    },
+    {
+        "file_name": "32583150B.en.txt",
+        "en": "The patient continued to have poor seizure control, requiring several weeks of intermittent EEG placement and anti-epileptic medication titration, including phenobarbital and midazolam continuous infusions.",
+        "es": "El paciente sigui\u00f3 con un control deficiente de las convulsiones, que requiri\u00f3 varias semanas de EEG intermitentes y ajuste de la medicaci\u00f3n antiepil\u00e9ptica, que inclu\u00eda administraci\u00f3n continua de fenobarbital y midazolam."
+    },
+    {
+        "file_name": "32583150B.en.txt",
+        "en": "Interval MRI revealing evolving hemorrhagic infarctions in bilateral occipito-parietal lobes, left temporal and left frontal lobes, and stable bilateral subdural collections, believed to be cardioembolic in etiology .",
+        "es": "La RMN revel\u00f3 infartos hemorr\u00e1gicos en evoluci\u00f3n en los l\u00f3bulos occipitoparietales y en los l\u00f3bulos izquierdos temporal y frontal y grupos subdurales bilaterales estables, cuya etiolog\u00eda se sospech\u00f3 cardioemb\u00f3lica."
+    },
+    {
+        "file_name": "32583150B.en.txt",
+        "en": "His ventilator support is currently being weaned.",
+        "es": "En estos momentos se va retirando progresivamente la respiraci\u00f3n asistida."
+    },
+    {
+        "file_name": "32612465A.en.txt",
+        "en": "An 86-year-old African American female with a history of adequately controlled diabetes mellitus (HbA1c 6.4%), coronary artery disease, hypertension, and Alzheimer disease presented on March 8 for symptoms of fever, vomiting, and shortness of breath for 24 hours and a syncopal episode 1 day prior to symptom onset.",
+        "es": "Una mujer afroamericana de 86 a\u00f1os, con antecedentes de diabetes mellitus bien controlada (HbA1c 6.4%), arteriopat\u00eda coronaria, hipertensi\u00f3n y Alzheimer, se present\u00f3 el 8 de marzo con s\u00edntomas de fiebre, v\u00f3mitos y disnea de 24 horas de evoluci\u00f3n, y un episodio de sincope 1 d\u00eda antes del inicio de los s\u00edntomas."
+    },
+    {
+        "file_name": "32612465A.en.txt",
+        "en": "In the emergency department (ED), her chest x-ray was unremarkable, and influenza assay was negative.",
+        "es": "En urgencias, su radiograf\u00eda tor\u00e1cica fue irrelevante y una prueba de gripe result\u00f3 negativa."
+    },
+    {
+        "file_name": "32612465A.en.txt",
+        "en": "She was febrile at 102.4\u00b0F in the ED and was admitted for observation.",
+        "es": "Estaba febril, con 39,1 \u00b0C y se la ingres\u00f3 para su observaci\u00f3n."
+    },
+    {
+        "file_name": "32612465A.en.txt",
+        "en": "On March 10, the patient developed worsening dyspnea and was placed on 2 L of supplemental oxygen via nasal cannula. Repeat chest x-ray showed bilateral ground-glass opacities, more severe on the right.",
+        "es": "El 10 de marzo, la paciente mostr\u00f3 un empeoramiento de la disnea y se le aplic\u00f3 oxigenoterapia con c\u00e1nula nasal a 2 L. Una nueva radiograf\u00eda tor\u00e1cica mostr\u00f3 opacidades de vidrio esmerilado, m\u00e1s graves en el pulm\u00f3n derecho."
+    },
+    {
+        "file_name": "32612465A.en.txt",
+        "en": "C-reactive protein was 155.9 mg/dL.",
+        "es": "La prote\u00edna C-reactiva era de 155,9 mg/dL."
+    },
+    {
+        "file_name": "32612465A.en.txt",
+        "en": "Nasopharyngeal swab submitted for SARS-CoV-2 qualitative polymerase chain reaction (PCR) testing returned positive.",
+        "es": "El frotis nasofar\u00edngeo que se envi\u00f3 para una prueba de SARS-CoV-2 mediante PCR cualitativa dio resultado positivo."
+    },
+    {
+        "file_name": "32612465A.en.txt",
+        "en": "The patient developed respiratory failure and was transferred to the intensive care unit (ICU) on March 12.",
+        "es": "La paciente desarroll\u00f3 insuficiencia respiratoria y se traslad\u00f3 a la UCI el d\u00eda 12 de marzo. Se le aplic\u00f3 ventilaci\u00f3n no invasiva."
+    },
+    {
+        "file_name": "32612465A.en.txt",
+        "en": "Urine antigen for Streptococcus pneumoniae collected March 12 tested positive, and the patient was started on methylprednisolone (60 mg intravenous [IV] daily), azithromycin (500 mg IV daily), ceftriaxone (1 g IV daily), and hydroxychloroquine (800 mg loading dose, followed by 400 mg daily).",
+        "es": "La prueba de ant\u00edgenos de Streptococcus pneumoniae en orina recogida el 12 de marzo dio positivo y se inici\u00f3 un tratamiento con metilprednisolona (60 mg al dia i.v. ), azitromicina (500 mg al d\u00eda i.v."
+    },
+    {
+        "file_name": "32612465A.en.txt",
+        "en": "On March 16, her respiratory status improved, and she was transferred out of the ICU.",
+        "es": "El 16 de marzo, su estado respiratorio mejor\u00f3 y sali\u00f3 de la UCI."
+    },
+    {
+        "file_name": "32612465A.en.txt",
+        "en": "On March 18 (day 12 of symptoms), the patient again developed worsening dyspnea and hypoxemia with oxygen saturation of 86% with a non-rebreather mask.",
+        "es": "El 18 de marzo (d\u00eda 12 de sintomatolog\u00eda), la paciente volvi\u00f3 a presentar un empeoramiento de la disnea e hipoxemia, con saturaci\u00f3n de ox\u00edgeno de 86%, con una mascarilla con reservorio."
+    },
+    {
+        "file_name": "32612465A.en.txt",
+        "en": "The family made the decision to transition the patient to home hospice care.",
+        "es": "La familia tom\u00f3 la decisi\u00f3n de trasladar a la paciente a su hogar con cuidados paliativos."
+    },
+    {
+        "file_name": "32612465A.en.txt",
+        "en": "She was discharged on March 22 and died in her home on March 23.",
+        "es": "Fue dada de alta el d\u00eda 22 de marzo y muri\u00f3 en su hogar el 23 de marzo."
+    },
+    {
+        "file_name": "32615807B.en.txt",
+        "en": "The patient was a 75-year-old woman with a history of diabetes and chronic renal failure hospitalized due to dyspnea.",
+        "es": "La paciente es una mujer de 75 a\u00f1os con antecedentes de diabetes e insuficiencia renal cr\u00f3nica, hospitalizada a causa de disnea."
+    },
+    {
+        "file_name": "32615807B.en.txt",
+        "en": "The vital signs at the time of referral were BP\u00a0=\u00a0100/75, PR\u00a0=\u00a0105/min, RR: 18/min, BT: 37 and O2 saturation (in room air)\u00a0=\u00a087%.",
+        "es": "Las constantes vitales en el momento de la derivaci\u00f3n eran: presi\u00f3n = 100/75, pulso = 105 l.p.m., frecuencia respiratoria: 18 r.p.m., temperatura = 37 y saturaci\u00f3n de ox\u00edgeno (en aire ambiental) = 87%."
+    },
+    {
+        "file_name": "32615807B.en.txt",
+        "en": "Crackles were heard in both lungs while other examinations were normal.",
+        "es": "Se apreciaron crepitantes en ambos pulmones, pero el resto de la exploraci\u00f3n fue normal."
+    },
+    {
+        "file_name": "32615807B.en.txt",
+        "en": "Due to pulmonary involvement and dyspnea, the patient was treated with oseltamivir, hydroxychloroquine, lopinavir/ritonavir, meropenem, dexamethasone and enoxaparin adjusted based on serum creatinine level.",
+        "es": "A causa de la afectaci\u00f3n pulmonar y la disnea, se trat\u00f3 a la paciente con oseltamivir, hidroxicloroquina, lopinavir/ritonavir, meronepem, dexametasona y enoxaparina con ajuste en funci\u00f3n de la creatinina s\u00e9rica."
+    },
+    {
+        "file_name": "32615807B.en.txt",
+        "en": "The patient was consulted with a cardiologist and an endocrinologist.",
+        "es": "La paciente fue visitada por un cardi\u00f3logo y un endocrin\u00f3logo. El ECG y la ecocardiograf\u00eda no revelaron anomal\u00edas y se monitoriz\u00f3 estrechamente la glucemia."
+    },
+    {
+        "file_name": "32615807B.en.txt",
+        "en": "According to recommendations, the patients was treated with corticosteroids as well.",
+        "es": "De acuerdo con las recomendaciones, la paciente tambi\u00e9n fue tratada con corticoesteroides."
+    },
+    {
+        "file_name": "32615807B.en.txt",
+        "en": "The result of troponin I test was negative and creatinine level was reported as 1.5\u00a0mg/dl.",
+        "es": "El resultado de la prueba de troponina I fue negativa y la concentraci\u00f3n de creatinina fue de 1,5 mg/dL."
+    },
+    {
+        "file_name": "32615807B.en.txt",
+        "en": "There were no electrolyte abnormalities during hospitalization.",
+        "es": "No se observaron alteraciones electrol\u00edticas durante la hospitalizaci\u00f3n."
+    },
+    {
+        "file_name": "32615807B.en.txt",
+        "en": "After 7\u00a0days and with the improvement of symptoms and reaching O2 saturation >95% within the last 48\u00a0h, the patient was decided to continue quarantine in a recovery center.",
+        "es": "Tras 7 d\u00edas con una mejora de los s\u00edntomas y una saturaci\u00f3n de hasta el 95% en las \u00faltimas 48 horas, se decidi\u00f3 que la paciente pod\u00eda proseguir la cuarentena en un centro de rehabilitaci\u00f3n."
+    },
+    {
+        "file_name": "32615807B.en.txt",
+        "en": "The next day, after being transferred while having good general condition and normal vital signs, she suddenly developed cardiac arrest and died due to lack of response to resuscitation.",
+        "es": "Al d\u00eda siguiente, tras ser trasladada en buen estado general y constantes vitales normales, sufri\u00f3 un paro card\u00edaco s\u00fabito y muri\u00f3 al no responder a la reanimaci\u00f3n."
+    },
+    {
+        "file_name": "32637086B.en.txt",
+        "en": "A 56-year-old male patient presented with flu-like illness with high fever for three days.",
+        "es": "Un hombre de 56 a\u00f1os se present\u00f3 con s\u00edntomas paragripales e hipertermia de tres d\u00edas de evoluci\u00f3n."
+    },
+    {
+        "file_name": "32637086B.en.txt",
+        "en": "He was a known case of hypertension controlled by Valsartan tablet.",
+        "es": "Ten\u00eda antecedentes de hipertensi\u00f3n, controlada mediante comprimidos de Valsartan."
+    },
+    {
+        "file_name": "32637086B.en.txt",
+        "en": "He was a shopkeeper denying history of both contact and travel.",
+        "es": "Ten\u00eda una tienda y neg\u00f3 haber viajado o haber tenido contacto con personas infectadas."
+    },
+    {
+        "file_name": "32637086B.en.txt",
+        "en": "The patient was admitted and put on antibiotics and antipyrol after investigation.",
+        "es": "El paciente fue ingresado y se le administraron antibi\u00f3ticos y antipir\u00e9ticos."
+    },
+    {
+        "file_name": "32637086B.en.txt",
+        "en": "Hematological tests and chest x-ray were normal, RT-PCR for nasopharyngeal swab was negative despite increase in severity of cough, shortness of breath, and fever.",
+        "es": "Las pruebas hematol\u00f3gicas y la radiograf\u00eda tor\u00e1cica eran normales, la RT-PCR a partir de frotis nasofar\u00edngeo dio resultado negativo, a pesar del aumento de intensidad de la tos, la disnea y la fiebre."
+    },
+    {
+        "file_name": "32637086B.en.txt",
+        "en": "Four days later, RT-PCR became positive for SARS-CoV-19.",
+        "es": "Cuatro d\u00edas despu\u00e9s, la prueba mediante RT-PCR dio positiva para SARS-CoV-19."
+    },
+    {
+        "file_name": "32637086B.en.txt",
+        "en": "The patient condition progressed, on sixth day of hospitalization, he had dyspnea, fever, cough, tachycardia and hypoxia with diffuse bilateral crepitation on chest examination; oxygen saturation: 80% increasing to 90% on 8\u00a0L of oxygen, respiratory rate 40 breaths/minute, temperature 39.5C, PaO2: 61\u00a0mmHg, PaO2/FiO2:122\u00a0mmHg on 10\u00a0L O2 through nasal cannula, alveolar-arterial gradient: 65.",
+        "es": "El estado del paciente empeor\u00f3; el d\u00eda 6 de hospitalizaci\u00f3n, present\u00f3 disnea, fiebre, tos, taquicardia e hipoxemia, con crepitantes bilaterales difusos en la exploraci\u00f3n tor\u00e1cica, la saturaci\u00f3n de ox\u00edgeno era de 80% que aument\u00f3 a 90% con 8L de ox\u00edgeno, la frecuencia respiratoria era de 40 r.p.m., la temperatura era de 39,5 C, PaO2: 61mmHg, PaO2/FiO2: 122mmHg con 10L O2 con c\u00e1nula nasal, gradiente alveolo-arterial: 65."
+    },
+    {
+        "file_name": "32637086B.en.txt",
+        "en": "CBC showed lymphopenia, serum Ferritin: 650\u00a0ng/ml, CRP: 45\u00a0mg/dL, ESR: 91.",
+        "es": "Un hemograma completo revel\u00f3 linfocitopenia; la ferritina s\u00e9rica era de 650ng/ml, la prote\u00edna C-reactiva era de 45mg/dL y la VSG era de 91."
+    },
+    {
+        "file_name": "32637086B.en.txt",
+        "en": "Chest-x-ray revealed bilateral lower zone infiltration and haziness, chest CT scan showed left upper lobe ring shaped consolidation surrounding small area of GGO (reverse Halo sign or Atoll sign), bilateral pleural effusion and bilateral diffuse lower lobe GGO.",
+        "es": "La radiograf\u00eda tor\u00e1cica revel\u00f3 infiltraci\u00f3n difusa bilateral en la zona inferior; la TAC tor\u00e1cica mostr\u00f3 consolidaci\u00f3n anular en el l\u00f3bulo superior izquierdo alrededor de una peque\u00f1a \u00e1rea de opacidad de vidrio esmerilado (signo del halo o del atol\u00f3n), derrame pleural bilateral y opacidades de vidrio esmerilado difusas bilaterales en el l\u00f3bulo inferior."
+    },
+    {
+        "file_name": "32637086B.en.txt",
+        "en": "The patient was put on non-invasive oxygen therapy, Meropenem vial 1\u00a0gm t.i.d., Tamiflu tablet 75\u00a0mg\u00a0b.i.d., Kaltetra tab 400/100\u00a0mg\u00a0b.i.d., hydroxychloroquine tablet 400\u00a0mg\u00a0b.i.d.",
+        "es": "Se aplic\u00f3 al paciente oxigenoterapia no invasiva, meronepem i.v."
+    },
+    {
+        "file_name": "32637086B.en.txt",
+        "en": "for the first day, and 200\u00a0mg\u00a0b.i.d. subsequently, Enoxaparin 4000 IU q.d. subcutaneously, acetaminophen bottle on need, Valsartan tablet was replaced with Amlodipine tablet.",
+        "es": "1 gm tres veces al d\u00eda, comprimido de tamifl\u00fa 75 mg dos veces al d\u00eda, comprimido de Kaltetra 400/100 mg dos veces al d\u00eda, comprimido de hidroxicloroquina 400 mg dos veces al d\u00eda el primer d\u00eda y 200 mg dos veces al d\u00eda los siguientes, enoxaparina 4000 UI al d\u00eda subcut\u00e1nea, acetaminofeno a demanda; el valsartan fue sustituido por amlodipina."
+    },
+    {
+        "file_name": "32637086B.en.txt",
+        "en": "Within the four subsequent days, the patient deteriorated, oxygen saturation decreased to 70\u201380% on 10\u00a0L of oxygen, PaO2: 56\u00a0mmHg, PaO2/FiO2: 93, alveolar-arterial gradient: 75; D-dimer:1992\u00a0ng/ml, serum Ferritin: 692 ng/mLn, CRP: 93\u00a0mg/dL, ESR: 110, with normal renal function tests, liver function tests, echocardiography troponin test and serum electrolytes.",
+        "es": "En los cuatro d\u00edas siguientes, el paciente empeor\u00f3, la saturaci\u00f3n de ox\u00edgeno cay\u00f3 a 70-80% con 10 L de ox\u00edgeno; PaO2: 56mmHg, PaO2/FiO2: 93, gradiente alveolo-arterial: 75; d\u00edmero D: 1992ng/ml, ferritina s\u00e9rica: 692 ng/mLn, prote\u00edna C-reactiva: 93mg/dl, VSG: 110, con pruebas funcionales renales, pruebas funcionales hep\u00e1ticas, ecocardiograma, troponina y electr\u00f3litos s\u00e9ricos normales."
+    },
+    {
+        "file_name": "32637086B.en.txt",
+        "en": "In addition to his medications, the patient received 200\u00a0ml of CP from a previously recovered COVID-19 patient after doing necessary investigations for donors plasma (hemoglobin level and viral screen).",
+        "es": "Adem\u00e1s de la medicaci\u00f3n, el paciente recibi\u00f3 200 ml de suero de convaleciente de un paciente recuperado de COVID-19 moderada, tras realizar las pruebas necesarias del plasma del donante (hemoglobinemia y pruebas v\u00edricas)."
+    },
+    {
+        "file_name": "32637086B.en.txt",
+        "en": "Seventy-hours later, the patient started to improve, fever subsided, dyspnea decreased, lymphocyte counts normalized.",
+        "es": "70 horas despu\u00e9s, el paciente empez\u00f3 a mejorar, la fiebre remiti\u00f3, la disnea disminuy\u00f3 y las cifras de linfocitos se normalizaron."
+    },
+    {
+        "file_name": "32637086B.en.txt",
+        "en": "Six days after the plasma transfusion, D-dimer 1887\u00a0ng/ml, PaO2: 81\u00a0mmHg, PaO2/FiO2\u00a0=\u00a0162\u00a0mmHg on 10\u00a0L of nasal cannula oxygen.",
+        "es": "Seis d\u00edas despu\u00e9s de la transfusi\u00f3n de plasma, presentaba los valores siguientes: d\u00edmero D 1887 ng/ml, PaO2: 81mmHg, PaO2/FiO2:162mmHg con 10L de ox\u00edgeno por c\u00e1nula nasal."
+    },
+    {
+        "file_name": "32637086B.en.txt",
+        "en": "Chest x-ray showed improved consolidation and GGO, CT-scan showed disappearance of the pleural effusion.",
+        "es": "La radiograf\u00eda tor\u00e1cica mostr\u00f3 una mejora de las consolidaciones y las opacidades de vidrio esmerilado; la TAC tor\u00e1cica mostr\u00f3 desaparici\u00f3n del derrame pleural."
+    },
+    {
+        "file_name": "32637086B.en.txt",
+        "en": "The patient was discharged home 21 days after the admission with good health, he had three consecutive negative RT-PCR each 24\u00a0h apart.",
+        "es": "El paciente fue dado de alta 21 d\u00edas despu\u00e9s del ingreso, en buen estado de salud. Tres RT-PCR consecutivas espaciadas 24 horas hab\u00edan dado negativo."
+    },
+    {
+        "file_name": "32637266A.en.txt",
+        "en": "A 67-year-old woman with a past medical history of schizoaffective disorder, diabetes mellitus, hypertension, and hyperlipidemia was brought to the mental health clinic by her daughter due to behavior changes.",
+        "es": "Una mujer de 67 a\u00f1os con antecedentes de trastorno esquizoafectivo, diabetes mellitus, hipertensi\u00f3n e hiperlipidemia, fue llevada por su hija a un consultorio psiqui\u00e1trico a causa de cambios de conducta."
+    },
+    {
+        "file_name": "32637266A.en.txt",
+        "en": "Her medications included lithium 600 mg daily, quetiapine 400 mg twice daily, insulin, empagliflozin, metformin, sitagliptin, atorvastatin, irbesartan, and aspirin.",
+        "es": "Su medicaci\u00f3n era 600 mg al d\u00eda de litio, 400 mg de quetiapina dos veces al d\u00eda, insulina, empagliflozina, metformina, sitagliptina, atorvastatina, irbesartan y aspirina."
+    },
+    {
+        "file_name": "32637266A.en.txt",
+        "en": "On examination, she was poorly groomed without any acute distress.",
+        "es": "A la exploraci\u00f3n, estaba poco arreglada, sin ning\u00fan malestar agudo."
+    },
+    {
+        "file_name": "32637266A.en.txt",
+        "en": "Her speech was unintelligible.",
+        "es": "Su habla era ininteligible."
+    },
+    {
+        "file_name": "32637266A.en.txt",
+        "en": "She was disoriented to time, place, and person.",
+        "es": "Estaba desorientada respecto al tiempo, el espacio y las personas."
+    },
+    {
+        "file_name": "32637266A.en.txt",
+        "en": "Her vital signs were as follows: respiratory rate (RR) 18 breaths per minute (breaths/min) , temperature (T) 98.8 degrees Fahrenheit (\u00b0F), heart rate (HR) 100 beats per minute (bpm), blood pressure (BP) 145/82 mmHg, and oxygen saturation (SpO2) 93% on room air.",
+        "es": "Sus constantes vitales eran: frecuencia respiratoria 18 r.p.m., temperatura 37,1 \u00baC, pulso 100 l.p.m., presi\u00f3n arterial 145/82 mmHg y saturaci\u00f3n de ox\u00edgeno (SpO2) 93% en aire ambiental."
+    },
+    {
+        "file_name": "32637266A.en.txt",
+        "en": "Her lung exam revealed mild crepitation.\u00a0Laboratory tests showed white blood cell count (WBC) 7.78 x 103 cells per cubic millimeter (/mm3) with lymphocytes 9.4%, elevated creatinine (Cr) 1.35 milligrams per deciliter (mg/dl) (baseline 0.65 mg/dl), and lithium level 2.28 mmol/L.",
+        "es": "Las pruebas anal\u00edticas dieron cifra de leucocitos 7,78 x 103 c\u00e9lulas por mil\u00edmetro c\u00fabico (/mm3) con 9,4% de linfocitos, creatinina (Cr) alta a 1,35 miligramos por decilitro (mg/dl) (referencia 0,65 mg/dl) y concentraci\u00f3n de litio 2,28 mmol/L."
+    },
+    {
+        "file_name": "32637266A.en.txt",
+        "en": "Electrocardiogram (ECG) was normal.",
+        "es": "El electrocardiograma era normal. Una TAC craneal no dio resultados relevantes."
+    },
+    {
+        "file_name": "32637266A.en.txt",
+        "en": "Chest X-ray (CXR) showed bilateral patchy infiltrates.",
+        "es": "Una radiograf\u00eda tor\u00e1cica mostr\u00f3 infiltrados parcheados bilaterales."
+    },
+    {
+        "file_name": "32637266A.en.txt",
+        "en": "A nasopharyngeal swab for the SARS-CoV-2 polymerase chain reaction test was done and returned positive.",
+        "es": "Un frotis nasofar\u00edngeo para SARS-CoV-2 analizado mediante RT-PCR dio resultado positivo."
+    },
+    {
+        "file_name": "32637266A.en.txt",
+        "en": "She was admitted to the medicine floor due to COVID-19 pneumonia, acute kidney injury (AKI), and lithium toxicity.",
+        "es": "Fue ingresada en la planta general a causa de neumon\u00eda por COVID-19, lesi\u00f3n renal aguda e intoxicaci\u00f3n por litio."
+    },
+    {
+        "file_name": "32637266A.en.txt",
+        "en": "On the first day of admission, she received a total of four liters of intravenous normal saline for the treatment of lithium intoxication and AKI.",
+        "es": "El primer d\u00eda de ingreso, recibi\u00f3 cuatro litros de soluci\u00f3n salina normal i.v. para tratar la intoxicaci\u00f3n por litio y la lesi\u00f3n renal aguda."
+    },
+    {
+        "file_name": "32637266A.en.txt",
+        "en": "She did not develop acute worsening of COVID-19 symptoms from the administration of intravenous fluid and had good urine output.\u00a0 Her mental status was improved, and lithium level was normalized.",
+        "es": "No present\u00f3 empeoramiento agudo de los s\u00edntomas de COVID-19 a partir de la administraci\u00f3n de l\u00edquidos i.v. y ten\u00eda una buena diuresis."
+    },
+    {
+        "file_name": "32637266A.en.txt",
+        "en": "She received hydroxychloroquine for the treatment of COVID-19 as per hospital protocol; however, her hospital course was complicated with acute hypoxic respiratory failure and eventually died on day 4 of admission.",
+        "es": "Recibi\u00f3 hidroxicloroquina para tratar la COVID-19 seg\u00fan el protocolo del hospital; sin embargo, su evoluci\u00f3n se complic\u00f3 a causa de insuficiencia respiratoria hipox\u00e9mica aguda y, finalmente, muri\u00f3 el d\u00eda 4 de ingreso."
+    }
+]
