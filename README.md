@@ -1,4 +1,21 @@
-# PrivaLingo
+# DP-NMT: Scalable Differentially-Private Machine Translation
+
+## Description
+
+DP-NMT is a framework for carrying out research on privacy-preserving neural machine translation (NMT) with [differentially private stochastic gradient descent (DP-SGD)](https://arxiv.org/abs/1607.00133). Implemented using the [JAX](https://github.com/google/jax) and [Flax](https://github.com/google/flax) libraries, DP-NMT brings together numerous models, datasets and evaluation metrics in one software package. Our goal is to provide a platform for researchers to advance the development of privacy-preserving NMT systems, keeping the details of the DP-SGD algorithm (e.g. Poisson sampling) transparent and intuitive to implement. We provide tools for training text generation models on both out-of-the-box and custom datasets, with and without differential privacy guarantees, using different sampling procedures for iterating over training data.
+
+## Installation
+
+With [Miniconda](https://docs.conda.io/projects/miniconda/en/latest/):
+
+```bash
+conda create -n dp-nmt python=3.10
+conda activate dp-nmt
+git clone https://github.com/trusthlt/dp-nmt.git
+cd dp-nmt
+pip install -r requirements.txt
+conda install cuda-nvcc -c conda-forge -c nvidia
+```
 
 ## 1. Normal Training Example
 
