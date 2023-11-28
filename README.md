@@ -4,6 +4,8 @@
 
 DP-NMT is a framework for carrying out research on privacy-preserving neural machine translation (NMT) with [differentially private stochastic gradient descent (DP-SGD)](https://arxiv.org/abs/1607.00133). Implemented using the [JAX](https://github.com/google/jax) and [Flax](https://github.com/google/flax) libraries, DP-NMT brings together numerous models, datasets and evaluation metrics in one software package. Our goal is to provide a platform for researchers to advance the development of privacy-preserving NMT systems, keeping the details of the DP-SGD algorithm (e.g. Poisson sampling) transparent and intuitive to implement. We provide tools for training text generation models on both out-of-the-box and custom datasets, with and without differential privacy guarantees, using different sampling procedures for iterating over training data.
 
+Video demonstrating our software in use: https://www.youtube.com/watch?v=U8xu1mFJWIc
+
 ## Installation
 
 With [Miniconda](https://docs.conda.io/projects/miniconda/en/latest/):
