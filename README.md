@@ -19,6 +19,40 @@ pip install -r requirements.txt
 conda install cuda-nvcc -c conda-forge -c nvidia
 ```
 
+## Available Datasets
+
+
+### Standard datasets
+
+Datasets available from the HuggingFace Datasets Hub can be specified for running experiments (e.g. outlined for the WMT-16 dataset in "1.1 With WMT16 Dataset" below).
+
+
+### Custom datasets 
+
+Processing scripts are available for specific datasets under `data`. Experiments can be run according to "1.2 With custom dataset" below, specifying `--dataset data/<name-of-dataset>.py`.
+
+
+#### **Business Scene Dialogue (BSD) Corpus**
+
+Our port of the Business Scene Dialogue (BSD) corpus ([Rikters et al. 2019](https://aclanthology.org/D19-5204/)), originally available at: https://github.com/tsuruoka-lab/BSD.
+
+The dataset is a collection of fictional business conversations in various scenarios (e.g. "face-to-face", "phone call", "meeting"), with parallel data for Japanese and English.
+
+
+#### **ClinSpEn-CC**
+
+Our port of the ClinSpEn-CC dataset ([Neves et al. 2022](https://aclanthology.org/2022.wmt-1.69/)), originally available at: https://temu.bsc.es/clinspen/clinical-cases/.
+
+The dataset is a collection of parallel COVID-19 clinical cases in English and Spanish, originally part of the biomedical translation task of WMT-22.
+
+
+#### **MultiATIS++**
+
+Instructions for accessing dataset from original source at: https://github.com/amazon-science/multiatis. Extract downloaded dataset to `data/multiatis++/original` and run `build_multiatis++.py` to prepare our ported version of the dataset for NMT. The dataset can then be used to run experiments, specifying `--dataset data/multiatis++.py`.
+
+MultiATIS++ ([Xu et al. 2020](https://aclanthology.org/2020.emnlp-main.410/)) is an extension of the original Airline Travel Information Services (ATIS) dataset ([Dahl et al. 1994](https://aclanthology.org/H94-1010.pdf)) to the multilingual setting, translated into 8 other languages.
+
+
 ## 1. Normal Training Example
 
 ### 1.1. With WMT16 dataset
@@ -26,12 +60,14 @@ conda install cuda-nvcc -c conda-forge -c nvidia
 ```python
 python main.py \
   --dataset wmt16 \
+  --lang_pair de-en \
   --model google/mt5-small \
   --epochs 16 \
   --batch_size 16 \
   --optimizer Adam \
   --learning_rate 0.001 \
   --gradient_accumulation_steps 1 \
+  --poisson_sampling False \
 ```
 
 ### 1.2. With custom dataset
@@ -39,12 +75,14 @@ python main.py \
 ```python
 python main.py \
   --dataset data/bsd.py \
+  --lang_pair ja-en \
   --model google/mt5-small \
   --epochs 16 \
   --batch_size 16 \
   --optimizer Adam \
   --learning_rate 0.001 \
   --gradient_accumulation_steps 1 \
+  --poisson_sampling False \
 ```
 
 ### 1.3 To continue training from a checkpoint
@@ -56,6 +94,7 @@ Keep the same arguments as in previous training and add the following
 
 python main.py \
   --dataset wmt16 \
+  --lang_pair de-en \
   --model checkpoints/2023_06_23-13_21_46/mt5-small \
   --epochs 16 \
   --batch_size 16 \
@@ -72,6 +111,7 @@ python main.py \
 ```python
 python main.py \
   --dataset wmt16 \
+  --lang_pair de-en \
   --model google/mt5-small \
   --epochs 7 \
   --batch_size 16 \
@@ -92,6 +132,7 @@ Batches drawn with Poisson sampling are determined based on the `--lot_size` arg
 ```python
 python main.py \
   --dataset wmt16 \
+  --lang_pair de-en \
   --model google/mt5-small \
   --epochs 7 \
   --batch_size 16 \
@@ -117,6 +158,7 @@ Make sure to point to the correct checkpoint path `--model`.
 ```python
 python main.py \
   --dataset wmt16 \
+  --lang_pair de-en \
   --model checkpoints/2023_06_25-23_50_22/mt5-small \
   --resume_from_epoch 25 \
   --generate True \
@@ -127,6 +169,7 @@ Evaluation on the test set is similar and can be done using the argument `--test
 ```python
 python main.py \
   --dataset wmt16 \
+  --lang_pair de-en \
   --model checkpoints/2023_06_25-23_50_22/mt5-small \
   --resume_from_epoch 25 \
   --generate True \

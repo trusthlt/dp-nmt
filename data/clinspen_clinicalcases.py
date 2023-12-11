@@ -6,11 +6,20 @@ _BASE_URL = os.getcwd()
 
 _DESCRIPTION = ""
 
-_HOMEPAGE = ""
+_HOMEPAGE = "https://temu.bsc.es/clinspen/clinical-cases/"
 
 _LICENSE = ""
 
-_CITATION = ""
+_CITATION = """\
+    @inproceedings{neves2022findings,
+      title={Findings of the WMT 2022 biomedical translation shared task: Monolingual clinical case reports},
+      author={Neves, Mariana and Yepes, Antonio Jimeno and Siu, Amy and Roller, Roland and Thomas, Philippe and Navarro, Maika Vicente and Yeganova, Lana and Wiemann, Dina and Di Nunzio, Giorgio Maria and Vezzani, Federica and others},
+      booktitle={WMT22-Seventh Conference on Machine Translation},
+      pages={694--723},
+      year={2022}
+}
+
+"""
 
 _URL = {
     "train": _BASE_URL + "/data/clinspen_clinicalcases/train.json",
