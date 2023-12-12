@@ -1,8 +1,9 @@
-from tensorflow_privacy import compute_dp_sgd_privacy
+import dp_accounting
 from flax.training.common_utils import shard
 from matplotlib import pyplot as plt
 from flax import traverse_util
 import numpy as np
+import math
 import warnings
 import logging
 import jax
@@ -48,8 +49,22 @@ def compute_epsilons(num_examples, batch_size, noise_multiplier, epochs, delta=1
     # delta should be < 1/num_examples
     if num_examples * delta > 1.:
         warnings.warn('Your delta might be too high.')
-    epsilon = compute_dp_sgd_privacy(num_examples, batch_size, noise_multiplier, epochs, delta)
-###    epsilon = [1]
+    orders = (
+            [1.25, 1.5, 1.75, 2.0, 2.25, 2.5, 3.0, 3.5, 4.0, 4.5]
+            + list(range(5, 64))) + [128, 256, 512]
+    steps = int(math.ceil(epochs * num_examples / batch_size))  # be clear on 'batch size'
+    logger.warning("Assuming Poisson sampling for DP-SGD.")
+    q = batch_size / num_examples
+    if q > 1:
+        warnings.warn("'n' must be larger than the batch size.")
+
+    accountant = dp_accounting.rdp.RdpAccountant(orders)
+    gaussian_event = dp_accounting.GaussianDpEvent(noise_multiplier)
+    poisson_event = dp_accounting.PoissonSampledDpEvent(
+            sampling_probability=q, event=gaussian_event)
+    event = dp_accounting.SelfComposedDpEvent(poisson_event, steps)
+    accountant.compose(event)
+    epsilon = accountant.get_epsilon_and_optimal_order(delta)
     return epsilon[0]
 
 

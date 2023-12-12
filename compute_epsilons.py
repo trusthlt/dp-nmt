@@ -38,20 +38,23 @@ def main():
         )
     else:
         noise_multipliers = [args.noise_multiplier]
-    print("actual_compute_len_train:", actual_compute_len_train)
-    print("devices:", args.device_count)
-    print("total_batch_size:", total_batch_size)
-    print("gradient_accumulation_steps:", args.gradient_accumulation_steps)
-    print("accumulation_batch_size:", total_batch_size * args.gradient_accumulation_steps)
-    print("epochs:", epochs)
+    print("Total number of training examples:", actual_compute_len_train)
+    print("Number of devices:", args.device_count)
+    print("Total batch size:", total_batch_size)
+    print("Gradient accumulation steps:", args.gradient_accumulation_steps)
+    print("Accumulation batch size:", total_batch_size * args.gradient_accumulation_steps)
+    print("Sampling rate:", (total_batch_size * args.gradient_accumulation_steps) / actual_compute_len_train)
+    print("Epochs:", epochs)
     for noise_multiplier in noise_multipliers:
-        print("input noise_multiplier:", noise_multiplier)
-        _ = utils.compute_epsilons(
+        print("Noise multiplier:", noise_multiplier)
+        epsilon = utils.compute_epsilons(
             actual_compute_len_train,
             total_batch_size * args.gradient_accumulation_steps,
             noise_multiplier,
             epochs
         )
+
+        print("Resulting epsilon:", epsilon)
         print("\n")
 
 
